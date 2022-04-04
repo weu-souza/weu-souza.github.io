@@ -41,13 +41,16 @@ font-size: 1.125rem;
 }
 @media (max-width: 500px){
     .header{
-       display: grid;
+       display: flex;
+       flex-direction: column;
         gap:10px;
         padding: 10px;
     }
 
     .header-menu {
-display: grid;
+display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
 
 grid-template-columns: 1fr  ;
 gap: 10px;
