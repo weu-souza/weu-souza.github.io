@@ -31,7 +31,9 @@
 
 }
 .empresa:hover{
-    border-right: 4px solid #b6f829 ;
+    border-right: 4px solid #b6f829;
+
+    transition: 0.1s;
 }
 .empresa::before{
     content: "";

@@ -52,7 +52,8 @@ content: "";
     flex-direction: column;
 }
 .faculdade:hover{
-    border-right: 4px solid #b6f829 ;
+    border-right: 4px solid #67dd0a ;
+    transition: 0.1s;
 }
 .faculdade-tipo{
     font-size: .875rem;
