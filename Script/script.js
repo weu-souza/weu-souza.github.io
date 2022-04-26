@@ -1,4 +1,4 @@
-import initMenuMobile from "../menu-mobile/menu-mobile.js"
+import initMenuMobile from "../css/menu-mobile/menu-mobile.js"
 
 
 initMenuMobile();

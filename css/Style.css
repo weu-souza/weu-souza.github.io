@@ -1,0 +1,9 @@
+@import "utilidades/global.css";
+@import "utilidades/tipografia.css";
+@import "utilidades/cor.css";
+@import "header/header.css";
+@import "introdução/introdução.css";
+@import "experiencia/experiencia.css";
+@import "formação/formacao.css ";
+@import "footer/footer.css";
+@import "menu-mobile/menu-mobile.css";
