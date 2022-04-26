@@ -39,10 +39,11 @@
         display: none;
         position: absolute;
         background: #F8F8F8FF;
-        width: 160px;
+        width: 107px;
         z-index: 200;
         top: 0;
         padding: 60px 0 20px 0;
+
         box-shadow: 2px 2px 2px 0 rgba(0,0,0,.2);
     }
     .js [data-menu="list"].active {
